@@ -1,1 +1,6 @@
 # Customer-Purchase-Insights-Dashboard
+## Data Description
+This dataset includes 3,900 synthetic customer shopping records that represent real-world retail behavior. It contains customer details such as age and gender, along with purchase information like product category, item bought, purchase amount, size, color, season, and location. The dataset also includes payment methods, purchase frequency, review ratings, subscription status, and the use of discounts or promo codes. Overall, it gives a clear view of how customers shop and what factors influence their purchasing decisions.
+
+## Project Description:
+This project analyzes customer shopping trends using a complete data analytics workflow. The data was first cleaned to fix inconsistencies and ensure accuracy, then transformed to make analysis easier, including grouping customers by age and organizing purchase details for better insights. Key trends related to customer demographics, product categories, seasonal shopping behavior, and promotional impact were explored and presented using clear visualizations in an interactive dashboard. AI-assisted tools were used to speed up exploration and visualization, while all findings were checked using core data analysis concepts. The project demonstrates the ability to turn raw retail data into clear insights that support better business decisions.
